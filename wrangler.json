@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "newsletter-attempt",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b0659e06-2660-4c60-8ef2-9f28631a7dc3",
+			"database_name": "newsletter_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
